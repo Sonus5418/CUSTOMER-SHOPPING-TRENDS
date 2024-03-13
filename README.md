@@ -26,7 +26,7 @@ Our dashboard isn't just about numbers—it's a visual feast! From interactive c
 
 ## 🌟Insights at a Glance 📈
 🎉 Total Number of Customers
-Our retail empire is fueled by a robust customer base of 3700 individuals.
+Our retail empire is fueled by a robust customer base of 3900 individuals.
 
 🎯 Average Age of Customers
 Discover the heartbeat of our customer base! With an average age of approximately 44 years, our diverse clientele brings a wealth of experience and preferences to the table.
