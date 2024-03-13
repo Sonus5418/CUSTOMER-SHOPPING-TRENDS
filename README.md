@@ -32,7 +32,7 @@ In this project, we've harnessed the power of Power BI to uncover hidden insight
 **Highlight Insights**: Showcase key findings through compelling visuals.
 **Iterate and Refine**: Continuously refine your analysis based on feedback.
 
-### 🎨 Visual Delights
+## 🎨 Visual Delights
 
 Our dashboard isn't just about numbers—it's a visual feast! From interactive charts to stunning visuals, we've crafted an immersive experience that makes data exploration a joyride.
 
@@ -40,7 +40,7 @@ Our dashboard isn't just about numbers—it's a visual feast! From interactive c
 ![consumer prefernce](https://github.com/Sonus5418/CUSTOMER-SHOPPING-TRENDS/blob/main/customer%20shopping%20trends%20dashboard%20images/Customer%20Shopping%20Trends%202.jpg)
 ![purchase behavior](https://github.com/Sonus5418/CUSTOMER-SHOPPING-TRENDS/blob/main/customer%20shopping%20trends%20dashboard%20images/Customer%20Shopping%20Trends%203.jpg)
 
-## 🔍 Key Insights
+# 🔍 Key Insights
 
 ## 🌟Insights at a Glance 📈
 ### 🎉 Total Number of Customers
@@ -94,7 +94,7 @@ From bustling metropolises to quaint towns, our products find a home in every co
 ### 📈 Purchase Count by Category
 Peer into the pulse of consumer demand! With 'Clothing' leading the charge at 1737 purchases, followed closely by 'Accessories', 'Footwear', and 'Outerwear', our product offerings cater to a wide spectrum of tastes and preferences.
 
-🎉 Conclusion
+## 🎉 Conclusion
 Our journey through the Customer Shopping Trends Dataset has been enlightening:
 
 **Customer-Centric Approach**: Understanding customer preferences is crucial for tailoring products and marketing strategies.
