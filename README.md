@@ -4,10 +4,17 @@ The Customer Shopping Preferences Dataset offers valuable insights into consumer
 ## Dive into Customer Behavior and Sales Trends with Power BI
 
 Welcome to the Customer Shopping Trends Dashboard, where we explore the fascinating world of retail sales, customer behavior, and product trends in the classic car industry. Buckle up as we take a thrilling ride through our data-driven analysis!
+## Tools Used
+- Power BI
+- Pivot Tables and Charts
+- Power Query
+- DAX Query
+- Canva (for visuals)
+- csv file
 
 ## 📊 Project Overview
 
-In this project, we've harnessed the power of MySQL and Power BI to uncover hidden insights within our sales data. From understanding customer preferences to identifying top-selling products, our dashboard provides a comprehensive view of our business performance.
+In this project, we've harnessed the power of Power BI to uncover hidden insights within our sales data. From understanding customer preferences to identifying top-selling products, our dashboard provides a comprehensive view of our business performance.
 
 ## 🔍 Key Insights
 
